@@ -1,5 +1,6 @@
 function randomNumber() {
-  return 7;
+  return 42;
 }
 
 module.exports = randomNumber;
+
